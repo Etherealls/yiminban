@@ -1,0 +1,17 @@
+# 依赖
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# 前端
+node_modules/
+dist/
+unpackage/
+.hbuilderx/
+
+# 系统
+.DS_Store
+Thumbs.db
